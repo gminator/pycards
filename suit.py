@@ -1,0 +1,2 @@
+class Suit(object):
+	pass
