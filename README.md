@@ -1,4 +1,6 @@
-# pycards
+# PyCards
+A script that tests the strengh of Poker Hands
 
-Run
+# Run 
+
 python3 tests.py
